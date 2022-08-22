@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# 故事 
+## 第二章 序言
+《故事》论述的是原理，而不是规则。
 
-You can use the [editor on GitHub](https://github.com/WHATISJIE/WHATISJIE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+规则说：“你必须以这种方式做。”原理说：“这种方式有效……而且经过了时间的验证。”两者有着本质的区别。你的作品没有必要临摹一部“写得好”的剧本，而是必须依循我们这门艺术赖以成形的原理去写好。急于求成、缺少经验的作家往往遵从规则；离经叛道、非科班的作家破除规则；艺术家则精通形式。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+《故事》论述的是永恒、普遍的形式，而不是公式。
 
-### Markdown
+任何兜售商业成功范本和故事速成模式的说法，都属无稽之谈。除去流行剧、翻拍片和续集，当我们将好莱坞电影作为一个整体来审视时，便会发现，故事设计的丰富多样是让人叹为观止的，而这其中却并没有一个固定样板。《虎胆龙威》所代表的好莱坞典型性绝不多于《温馨家族》、《来自边缘的明信片》、《狮子王》、《摇滚万万岁》、《命运的逆转》、《危险关系》、《土拨鼠日》、《离开拉斯维加斯》，以及成千上万部从闹剧到悲剧，属于数十种类型和次类型的优秀影片。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+《故事》敦促作者创作出能够令六大洲观众兴奋不已并且经久不衰的作品。没有人需要另一本重炒好莱坞残羹冷炙的菜谱。我们要重新发现这门艺术的潜在原则，那些赖以解放才智的指导原理。无论电影在哪里拍摄——好莱坞、巴黎抑或香港——只要它具有原始模型的特质，其愉悦性便能在全球引发一场永久性的连锁反应，从一家影院到另一家影院，从一代观众传向下一代观众。
 
-```markdown
-Syntax highlighted code block
+《故事》论述的是原始模型1，而不是陈规俗套2。
 
-# Header 1
-## Header 2
-### Header 3
+原始模型故事挖掘出一种普遍性的人生体验，然后以独一无二、具有文化特异性的表现手法对它进行装饰。陈规俗套故事则将这一形式颠倒过来：其内容和形式的匮乏势所难免。它将自己局限于一种狭隘的、具有具体文化特性的体验之中，然后饰之以陈腐而无特色的庸常形式。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WHATISJIE/WHATISJIE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+例如，根据过去的西班牙习俗，女儿出嫁必须以年龄长幼为序。在西班牙文化中，一部关于严父、弱母、嫁不出去的大姑娘和苦待闺中的小女儿的十九世纪家庭影片，也许能够打动那些依稀记得这一习俗的观众；但在西班牙文化之外，观众却未必能够移情于此。作者唯恐故事感召力有限，便诉诸过去曾娱乐过观众的那些熟悉的动作、人物和场景。而结果呢？世人对这些陈词滥调更兴味索然。
